@@ -1,0 +1,22 @@
+{
+  "telegram": {
+    "api_id": 123456,
+    "api_hash": "test_api_hash_1234567890abcdef",
+    "phone": "+10000000000",
+    "channel_username": "TestChannel"
+  },
+  "mt5": {
+    "login": 10000001,
+    "password": "TestPassword123*",
+    "server": "Test-MT5-Server"
+  },
+  "trading": {
+    "symbol": "XAUUSD",
+    "volume": 0.01,
+    "target_profit_usd": 5.00,
+    "use_minimum_volume": true,
+    "max_sl_distance_pips": 110,
+    "entry_strategy": "min",
+    "central_zone": 0
+  }
+}

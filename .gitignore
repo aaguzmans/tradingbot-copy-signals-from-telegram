@@ -1,0 +1,6 @@
+# Ignorar archivo de configuración sensible real
+config_v2.json
+
+# Ignorar archivos de sesión
+session_v5_pending.session
+session_v5_pending.session-journal
